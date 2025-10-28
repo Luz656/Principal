@@ -1,0 +1,6 @@
+ int[] N = { 15, 20, 10 };
+ int[] N2 = { 8, 12, 28 }; 
+int resultado = N[2] + N2[1];                      
+ Console.WriteLine("INGRESE 01 NUMERO : " + N[2]);
+ Console.WriteLine("INGRESE 02 NUMERO : " + N2[1]);
+ Console.WriteLine($"total de la suma es: {N[2]} + {N2[1]} = {resultado} ");
